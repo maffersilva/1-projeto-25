@@ -11,10 +11,20 @@ background-color: rgb(0, 255, 85);
 
 .primeirasecao{
 
+
     width: 1000px;
     height: 500px;
     background-color: rgb(255, 0, 234);
 
-
 }
+    
+    .divisao{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(119, 0, 255);
+    
+    }
+    
+
+
 
