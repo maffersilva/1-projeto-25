@@ -3,8 +3,18 @@ width: 20%;
 }
 
 .cabecalho{
-width: 1400px;
+width: 1000px;
 height: 100px;
 background-color: blue;
 
 }
+
+.primeirasecao{
+
+    width: 1400px;
+    height: 100px;
+    background-color: rgb(255, 0, 234);
+
+
+}
+
