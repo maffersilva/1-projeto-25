@@ -12,6 +12,7 @@ background-color: rgb(0, 255, 85);
   .primeirasecao{
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 1000px;
     height: 500px;
     background-color: rgb(255, 0, 234);
